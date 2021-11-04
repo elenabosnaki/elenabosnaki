@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elenabosnaki
-- 👀 I’m interested in fullstack web development
+- 👀 I’m interested in fullstack web development!
 - 🌱 I’m currently learning javascript & REACT
 - 💞️ I’m looking to collaborate on fullstack web development
 - 📫 You can reach me at <elenabosnaki@gmail.com>
